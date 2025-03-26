@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: be82c95cdba5b5640b27de18bd6e64f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4686288151697896271
+    second: N101_0
+  - first:
+      213: -5733518607879868414
+    second: N101_1
+  - first:
+      213: -5095156937525527201
+    second: N101_2
+  - first:
+      213: 2090855211181840824
+    second: N101_3
+  - first:
+      213: -3890478752803725896
+    second: N101_4
+  - first:
+      213: -3646103964678610078
+    second: N101_5
+  - first:
+      213: -312666942007391617
+    second: N101_6
+  - first:
+      213: 6873183805108580287
+    second: N101_7
+  - first:
+      213: 828211584346161625
+    second: N101_8
+  - first:
+      213: 7488307054127568541
+    second: N101_9
+  - first:
+      213: -5278313383819968408
+    second: N101_10
+  - first:
+      213: -1927694262972706609
+    second: N101_11
+  - first:
+      213: -2000793796734372815
+    second: N101_12
+  - first:
+      213: 7002289576591382235
+    second: N101_13
+  - first:
+      213: -3181575835995583223
+    second: N101_14
+  - first:
+      213: 5045048131703306738
+    second: N101_15
+  - first:
+      213: -2008890548850574298
+    second: N101_16
+  - first:
+      213: -6778519349494069834
+    second: N101_17
+  - first:
+      213: -2050449107813191461
+    second: N101_18
+  - first:
+      213: 4646238814458179920
+    second: N101_19
+  - first:
+      213: 1711035404881027294
+    second: N101_20
+  - first:
+      213: 2022834356232278707
+    second: N101_21
+  - first:
+      213: -7321469031737505455
+    second: N101_22
+  - first:
+      213: -1242489950111733004
+    second: N101_23
+  - first:
+      213: -2478669520513768305
+    second: N101_24
+  - first:
+      213: 6977546308904430407
+    second: N101_25
+  - first:
+      213: 1029949594785629384
+    second: N101_26
+  - first:
+      213: -5631025280399611592
+    second: N101_27
+  - first:
+      213: -1829660677740608542
+    second: N101_28
+  - first:
+      213: 3839690477594270049
+    second: N101_29
+  - first:
+      213: 1432249743603498099
+    second: N101_30
+  - first:
+      213: 1672334031555428335
+    second: N101_31
+  - first:
+      213: 1103489267953171261
+    second: N101_32
+  - first:
+      213: -2629560406593487812
+    second: N101_33
+  - first:
+      213: -8483678410826847214
+    second: N101_34
+  - first:
+      213: -2409430064515293742
+    second: N101_35
+  - first:
+      213: 2586463709964478169
+    second: N101_36
+  - first:
+      213: -4466899245158736805
+    second: N101_37
+  - first:
+      213: -1039720639728757523
+    second: N101_38
+  - first:
+      213: 3962606954553794767
+    second: N101_39
+  - first:
+      213: 6120524786668139397
+    second: Numbers101_0
+  - first:
+      213: 6070358904632794651
+    second: Numbers101_1
+  - first:
+      213: 643032787168955155
+    second: Numbers101_2
+  - first:
+      213: -1045411419595180017
+    second: Numbers101_3
+  - first:
+      213: -6965090834082408573
+    second: Numbers101_4
+  - first:
+      213: 3966322414781861949
+    second: Numbers101_5
+  - first:
+      213: 5684123467439161124
+    second: Numbers101_6
+  - first:
+      213: -7726101101961748972
+    second: Numbers101_7
+  - first:
+      213: -7979877787503101717
+    second: Numbers101_8
+  - first:
+      213: -1689144327899084593
+    second: Numbers101_9
+  - first:
+      213: -4033732391389988278
+    second: Numbers101_10
+  - first:
+      213: 4249524545654856685
+    second: Numbers101_11
+  - first:
+      213: 195904105131668616
+    second: Numbers101_12
+  - first:
+      213: -2661892203951176518
+    second: Numbers101_13
+  - first:
+      213: 898608341695165734
+    second: Numbers101_14
+  - first:
+      213: -2142819414544551782
+    second: Numbers101_15
+  - first:
+      213: -5031762510261208712
+    second: Numbers101_16
+  - first:
+      213: -8060498055301019539
+    second: Numbers101_17
+  - first:
+      213: 61389997571811325
+    second: Numbers101_18
+  - first:
+      213: -1691260212406919186
+    second: Numbers101_19
+  - first:
+      213: 7705347905746264847
+    second: Numbers101_20
+  - first:
+      213: 3256745500104707478
+    second: Numbers101_21
+  - first:
+      213: 1771735582394240641
+    second: Numbers101_22
+  - first:
+      213: -1353596093231514682
+    second: Numbers101_23
+  - first:
+      213: 3365050220086198127
+    second: Numbers101_24
+  - first:
+      213: 8250386811085750983
+    second: Numbers101_25
+  - first:
+      213: -8058337888135741801
+    second: Numbers101_26
+  - first:
+      213: -1494029476135148623
+    second: Numbers101_27
+  - first:
+      213: -8742822513120297931
+    second: Numbers101_28
+  - first:
+      213: -3281190758595666590
+    second: Numbers101_29
+  - first:
+      213: -4931907599297027968
+    second: Numbers101_30
+  - first:
+      213: -2136294877750490661
+    second: Numbers101_31
+  - first:
+      213: -762878043031191465
+    second: Numbers101_32
+  - first:
+      213: 5548829494621600176
+    second: Numbers101_33
+  - first:
+      213: -5991495517824891121
+    second: Numbers101_34
+  - first:
+      213: -584455013466541347
+    second: Numbers101_35
+  - first:
+      213: 8346305659365350931
+    second: Numbers101_36
+  - first:
+      213: 4924293258919900454
+    second: Numbers101_37
+  - first:
+      213: -3947462702669494306
+    second: Numbers101_38
+  - first:
+      213: -1574845647925080301
+    second: Numbers101_39
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Numbers101_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2129
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f3549dd870f450800000000000000
+      internalID: 6120524786668139397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2123
+        width: 99
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e54c9f24f3e3450800000000000000
+      internalID: 6070358904632794651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2130
+        width: 162
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b822ab9e28ce800800000000000000
+      internalID: 643032787168955155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2134
+        width: 169
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0874ea4ad3fd71f0800000000000000
+      internalID: -1045411419595180017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2125
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387503ef9c6075f90800000000000000
+      internalID: -6965090834082408573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1850
+        width: 168
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301eb5c8353b0730800000000000000
+      internalID: 3966322414781861949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1848
+        width: 172
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f3c288d2012ee40800000000000000
+      internalID: 5684123467439161124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1852
+        width: 167
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed0de7bff57c490800000000000000
+      internalID: -7726101101961748972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1855
+        width: 173
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f8d47e67c14190800000000000000
+      internalID: -7979877787503101717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_9
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1850
+        width: 171
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc88539ee24fe88e0800000000000000
+      internalID: -1689144327899084593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1571
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a763cf2cd4508c0800000000000000
+      internalID: -4033732391389988278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1567
+        width: 99
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9f003f0859fa30800000000000000
+      internalID: 4249524545654856685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1570
+        width: 162
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f964eebdf7b200800000000000000
+      internalID: 195904105131668616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_13
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1571
+        width: 168
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4cb11d42f0f0bd0800000000000000
+      internalID: -2661892203951176518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1567
+        width: 179
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62571f6968f787c00800000000000000
+      internalID: 898608341695165734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1292
+        width: 168
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f24a781d2342e0800000000000000
+      internalID: -2142819414544551782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1292
+        width: 172
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b0c508a69b2ab0800000000000000
+      internalID: -5031762510261208712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1292
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684e0d99bb532090800000000000000
+      internalID: -8060498055301019539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1292
+        width: 173
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a706a0e91ad000800000000000000
+      internalID: 61389997571811325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_19
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1292
+        width: 172
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdbb82ccf6788e0800000000000000
+      internalID: -1691260212406919186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1000
+        width: 193
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036ec87815eeea60800000000000000
+      internalID: 7705347905746264847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 996
+        width: 99
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc79107c8423d20800000000000000
+      internalID: 3256745500104707478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 999
+        width: 163
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e47880028769810800000000000000
+      internalID: 1771735582394240641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1000
+        width: 169
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb349d568f073de0800000000000000
+      internalID: -1353596093231514682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_24
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 996
+        width: 178
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f769ba85f03be20800000000000000
+      internalID: 3365050220086198127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 721
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2855e97134f7270800000000000000
+      internalID: 8250386811085750983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 721
+        width: 173
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef899b2680b2090800000000000000
+      internalID: -8058337888135741801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 721
+        width: 167
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3600f6b14244be0800000000000000
+      internalID: -1494029476135148623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 721
+        width: 173
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3d2bee314ba680800000000000000
+      internalID: -8742822513120297931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_29
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 721
+        width: 171
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5c99b36ed672d0800000000000000
+      internalID: -3281190758595666590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 400
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080e9d63b285e8bb0800000000000000
+      internalID: -4931907599297027968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 396
+        width: 99
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90234902b5a52e0800000000000000
+      internalID: -2136294877750490661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 399
+        width: 162
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7504e263676b965f0800000000000000
+      internalID: -762878043031191465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_33
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 400
+        width: 169
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97122c607610d40800000000000000
+      internalID: 5548829494621600176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_34
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 396
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c3b2229ee9dca0800000000000000
+      internalID: -5991495517824891121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 168
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd27127034993e7f0800000000000000
+      internalID: -584455013466541347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 121
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31edd4dc6c804d370800000000000000
+      internalID: 8346305659365350931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 121
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62575c301aa965440800000000000000
+      internalID: 4924293258919900454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_38
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 121
+        width: 173
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70843269bc739c0800000000000000
+      internalID: -3947462702669494306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers101_39
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 121
+        width: 171
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0b532a36052ae0800000000000000
+      internalID: -1574845647925080301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Numbers101_27: -1494029476135148623
+      Numbers101_6: 5684123467439161124
+      Numbers101_25: 8250386811085750983
+      Numbers101_30: -4931907599297027968
+      Numbers101_0: 6120524786668139397
+      Numbers101_1: 6070358904632794651
+      Numbers101_10: -4033732391389988278
+      Numbers101_16: -5031762510261208712
+      Numbers101_2: 643032787168955155
+      Numbers101_11: 4249524545654856685
+      Numbers101_37: 4924293258919900454
+      Numbers101_20: 7705347905746264847
+      Numbers101_23: -1353596093231514682
+      Numbers101_29: -3281190758595666590
+      Numbers101_21: 3256745500104707478
+      Numbers101_35: -584455013466541347
+      Numbers101_12: 195904105131668616
+      Numbers101_19: -1691260212406919186
+      Numbers101_3: -1045411419595180017
+      Numbers101_7: -7726101101961748972
+      Numbers101_5: 3966322414781861949
+      Numbers101_39: -1574845647925080301
+      Numbers101_14: 898608341695165734
+      Numbers101_9: -1689144327899084593
+      Numbers101_13: -2661892203951176518
+      Numbers101_28: -8742822513120297931
+      Numbers101_26: -8058337888135741801
+      Numbers101_24: 3365050220086198127
+      Numbers101_8: -7979877787503101717
+      Numbers101_34: -5991495517824891121
+      Numbers101_17: -8060498055301019539
+      Numbers101_15: -2142819414544551782
+      Numbers101_22: 1771735582394240641
+      Numbers101_38: -3947462702669494306
+      Numbers101_18: 61389997571811325
+      Numbers101_4: -6965090834082408573
+      Numbers101_36: 8346305659365350931
+      Numbers101_32: -762878043031191465
+      Numbers101_31: -2136294877750490661
+      Numbers101_33: 5548829494621600176
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

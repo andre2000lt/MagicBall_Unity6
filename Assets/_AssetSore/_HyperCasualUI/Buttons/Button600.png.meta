@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 4dec28d306211f7479b7b958310c0bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4160302939461386071
+    second: BS600_0
+  - first:
+      213: 3444480745156875017
+    second: BS600_1
+  - first:
+      213: 2870443051791692698
+    second: BS600_2
+  - first:
+      213: -1843119887265874363
+    second: BS600_3
+  - first:
+      213: -1892779049103888592
+    second: BS600_4
+  - first:
+      213: -5460822383188999079
+    second: BS600_5
+  - first:
+      213: 4733101275805095295
+    second: BS600_6
+  - first:
+      213: 3192794578340501311
+    second: BS600_7
+  - first:
+      213: 5076625789153302033
+    second: BS600_8
+  - first:
+      213: -7651736657778823834
+    second: BS600_9
+  - first:
+      213: 3553136632032964718
+    second: BS600_10
+  - first:
+      213: -5171681156152361757
+    second: BS600_11
+  - first:
+      213: -1754120339460462919
+    second: BS600_12
+  - first:
+      213: 8101166703329751088
+    second: BS600_13
+  - first:
+      213: 1182224372530981189
+    second: BS600_14
+  - first:
+      213: 8982724231438916092
+    second: BS600_15
+  - first:
+      213: 1875084677273711379
+    second: BS600_16
+  - first:
+      213: -5697124803237575610
+    second: BS600_17
+  - first:
+      213: 2061770718351458733
+    second: Button600_0
+  - first:
+      213: 6553033440919540642
+    second: Button600_1
+  - first:
+      213: -5072887480221286074
+    second: Button600_2
+  - first:
+      213: -3841068012748071449
+    second: Button600_3
+  - first:
+      213: -1761739308111832156
+    second: Button600_4
+  - first:
+      213: -3243807915066322354
+    second: Button600_5
+  - first:
+      213: 3133330578722352886
+    second: Button600_6
+  - first:
+      213: -6017703194901161315
+    second: Button600_7
+  - first:
+      213: -8899931291649518291
+    second: Button600_8
+  - first:
+      213: 5406695854440650192
+    second: Button600_9
+  - first:
+      213: -1081280174610246348
+    second: Button600_10
+  - first:
+      213: -8388554862888040157
+    second: Button600_11
+  - first:
+      213: -8328080864470369544
+    second: Button600_12
+  - first:
+      213: 8895701133506314368
+    second: Button600_13
+  - first:
+      213: 6558528497890287786
+    second: Button600_14
+  - first:
+      213: 2987994661474808613
+    second: Button600_15
+  - first:
+      213: 7616425138714103112
+    second: Button600_16
+  - first:
+      213: -5002084876780018729
+    second: Button600_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button600_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2011
+        width: 229
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da104ab6b81ec9c10800000000000000
+      internalID: 2061770718351458733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2011
+        width: 229
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d34fe13d01fa50800000000000000
+      internalID: 6553033440919540642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2011
+        width: 228
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64142ebc6bb7999b0800000000000000
+      internalID: -5072887480221286074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2011
+        width: 230
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed19064ef8c1bac0800000000000000
+      internalID: -3841068012748071449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1663
+        width: 228
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abd621fe6b0d87e0800000000000000
+      internalID: -1761739308111832156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1663
+        width: 229
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421fde33edabf2d0800000000000000
+      internalID: -3243807915066322354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1663
+        width: 230
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6d9c6f83db7b20800000000000000
+      internalID: 3133330578722352886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1663
+        width: 228
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ade20d3d2dc7ca0800000000000000
+      internalID: -6017703194901161315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1297
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d8d3e4a71d7480800000000000000
+      internalID: -8899931291649518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1297
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51384db31780b40800000000000000
+      internalID: 5406695854440650192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1297
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351fa9f8658ef0f0800000000000000
+      internalID: -1081280174610246348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1297
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329cea2fbcdd59b80800000000000000
+      internalID: -8388554862888040157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 949
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf38ce396bc6c80800000000000000
+      internalID: -8328080864470369544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 949
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0800faaac01e37b70800000000000000
+      internalID: 8895701133506314368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 949
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e6069be2940b50800000000000000
+      internalID: 6558528497890287786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_15
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 949
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52338f3405d777920800000000000000
+      internalID: 2987994661474808613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 622
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc8636f4af2b960800000000000000
+      internalID: 7616425138714103112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button600_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 622
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36c278e46059ab0800000000000000
+      internalID: -5002084876780018729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Button600_0: 2061770718351458733
+      Button600_2: -5072887480221286074
+      Button600_7: -6017703194901161315
+      Button600_10: -1081280174610246348
+      Button600_13: 8895701133506314368
+      Button600_15: 2987994661474808613
+      Button600_5: -3243807915066322354
+      Button600_8: -8899931291649518291
+      Button600_14: 6558528497890287786
+      Button600_11: -8388554862888040157
+      Button600_17: -5002084876780018729
+      Button600_3: -3841068012748071449
+      Button600_16: 7616425138714103112
+      Button600_1: 6553033440919540642
+      Button600_4: -1761739308111832156
+      Button600_12: -8328080864470369544
+      Button600_6: 3133330578722352886
+      Button600_9: 5406695854440650192
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

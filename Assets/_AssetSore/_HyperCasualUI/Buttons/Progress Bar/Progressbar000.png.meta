@@ -1,0 +1,2595 @@
+fileFormatVersion: 2
+guid: 892e3892469b5dd4b9226141314c528f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4962928933271890634
+    second: PB000_0
+  - first:
+      213: -5248721239280082092
+    second: PB000_1
+  - first:
+      213: 3513099584358791434
+    second: PB000_2
+  - first:
+      213: -4575226637152166069
+    second: PB000_3
+  - first:
+      213: 5707918207598746219
+    second: PB000_4
+  - first:
+      213: -1751522033149546842
+    second: PB000_5
+  - first:
+      213: -4996559597216771452
+    second: PB000_6
+  - first:
+      213: -8247180912867565536
+    second: PB000_7
+  - first:
+      213: 1317168666313827959
+    second: PB000_8
+  - first:
+      213: 2027364511751582369
+    second: PB000_9
+  - first:
+      213: 8393068598727939366
+    second: PB000_10
+  - first:
+      213: 4166958739598844113
+    second: PB000_11
+  - first:
+      213: 3405089596768957168
+    second: PB000_12
+  - first:
+      213: 8387050440330114157
+    second: PB000_13
+  - first:
+      213: -131762298550738011
+    second: PB000_14
+  - first:
+      213: 1078422047193895670
+    second: PB000_15
+  - first:
+      213: 570331806762938260
+    second: PB000_16
+  - first:
+      213: 3643000093052183053
+    second: PB000_17
+  - first:
+      213: 6101375004358906053
+    second: PB000_18
+  - first:
+      213: 1357355571571768410
+    second: PB000_19
+  - first:
+      213: -2531502772489764490
+    second: PB000_20
+  - first:
+      213: -8327062404460629080
+    second: PB000_21
+  - first:
+      213: -6516110272352074704
+    second: PB000_22
+  - first:
+      213: -508867068708621602
+    second: PB000_23
+  - first:
+      213: 4646393348272777208
+    second: PB000_24
+  - first:
+      213: 7577916232318311929
+    second: PB000_25
+  - first:
+      213: -4330234663357855485
+    second: PB000_26
+  - first:
+      213: -312399530503728552
+    second: PB000_27
+  - first:
+      213: 4198675318165424933
+    second: PB000_28
+  - first:
+      213: -3858977841891536428
+    second: PB000_29
+  - first:
+      213: 1807138948469296316
+    second: PB000_30
+  - first:
+      213: 765416503929277652
+    second: PB000_31
+  - first:
+      213: 6228705580282760454
+    second: PB000_32
+  - first:
+      213: 5683642227330633418
+    second: PB000_33
+  - first:
+      213: 5085955553098301722
+    second: PB000_34
+  - first:
+      213: -4919112569619931441
+    second: PB000_35
+  - first:
+      213: -7634847354807407531
+    second: PB000_36
+  - first:
+      213: -3349211213476148893
+    second: PB000_37
+  - first:
+      213: -2062202691577016988
+    second: PB000_38
+  - first:
+      213: 3571877936514715645
+    second: PB000_39
+  - first:
+      213: -1428277956779917611
+    second: PB000_40
+  - first:
+      213: -1377662745380611290
+    second: PB000_41
+  - first:
+      213: 1572864353748766297
+    second: PB000_42
+  - first:
+      213: -3029429586498303870
+    second: PB000_43
+  - first:
+      213: 3952076914782012075
+    second: PB000_44
+  - first:
+      213: 7963460689741001910
+    second: PB000_45
+  - first:
+      213: 8844616618681377125
+    second: PB000_46
+  - first:
+      213: -3448791599583519470
+    second: PB000_47
+  - first:
+      213: -1171703825282453215
+    second: PB000_48
+  - first:
+      213: 2800921429847651081
+    second: PB000_49
+  - first:
+      213: 6117579141470618861
+    second: PB000_50
+  - first:
+      213: -4440049107916222708
+    second: PB000_51
+  - first:
+      213: -586538885818775840
+    second: PB000_52
+  - first:
+      213: 8804992212757335299
+    second: PB000_53
+  - first:
+      213: -775572434637432421
+    second: PB000_54
+  - first:
+      213: -4656462088356048329
+    second: PB000_55
+  - first:
+      213: 2876170822721688779
+    second: PB000_56
+  - first:
+      213: -6486966985194178324
+    second: PB000_57
+  - first:
+      213: 8870879262844402829
+    second: PB000_58
+  - first:
+      213: 1966621652067932834
+    second: PB000_59
+  - first:
+      213: 3672236428724722865
+    second: PB000_60
+  - first:
+      213: 7939305778624152287
+    second: PB000_61
+  - first:
+      213: -6682838741263282361
+    second: PB000_62
+  - first:
+      213: -9159511502416162663
+    second: PB000_63
+  - first:
+      213: -534413175666489649
+    second: PB000_64
+  - first:
+      213: 8756442248964857744
+    second: PB000_65
+  - first:
+      213: -120589967932584331
+    second: PB000_66
+  - first:
+      213: -5775715595512939228
+    second: PB000_67
+  - first:
+      213: -312270268809539486
+    second: PB000_68
+  - first:
+      213: 2487448476524866219
+    second: PB000_69
+  - first:
+      213: -2836625108166546140
+    second: PB000_70
+  - first:
+      213: -5423308412577185268
+    second: PB000_71
+  - first:
+      213: -4034723660004734822
+    second: PB000_72
+  - first:
+      213: 4659958403916298429
+    second: PB000_73
+  - first:
+      213: -4971994165792337434
+    second: PB000_74
+  - first:
+      213: -3776350146018182186
+    second: PB000_75
+  - first:
+      213: 1958544427534029960
+    second: PB000_76
+  - first:
+      213: -1640433245294441748
+    second: PB000_77
+  - first:
+      213: 4107764836801457471
+    second: PB000_78
+  - first:
+      213: -2388550345427913663
+    second: PB000_79
+  - first:
+      213: 6868208409217056715
+    second: PB000_80
+  - first:
+      213: 6110661785851596805
+    second: PB000_81
+  - first:
+      213: -201120059067984836
+    second: PB000_82
+  - first:
+      213: 4865667363325162
+    second: PB000_83
+  - first:
+      213: -64575160658191056
+    second: PB000_84
+  - first:
+      213: -4858979022659240856
+    second: PB000_85
+  - first:
+      213: -2530618471223464051
+    second: PB000_86
+  - first:
+      213: 37034546533860645
+    second: Progressbar000_0
+  - first:
+      213: -8730077793424926315
+    second: Progressbar000_1
+  - first:
+      213: 5002826640920411424
+    second: Progressbar000_2
+  - first:
+      213: -1102866575468412406
+    second: Progressbar000_3
+  - first:
+      213: 6713541508232488236
+    second: Progressbar000_4
+  - first:
+      213: 7961648841893238115
+    second: Progressbar000_5
+  - first:
+      213: 952671006657780101
+    second: Progressbar000_6
+  - first:
+      213: -7356349829216190054
+    second: Progressbar000_7
+  - first:
+      213: -3075644500636286299
+    second: Progressbar000_8
+  - first:
+      213: 48315937085986782
+    second: Progressbar000_9
+  - first:
+      213: -3214170182121060045
+    second: Progressbar000_10
+  - first:
+      213: 8900991453154937033
+    second: Progressbar000_11
+  - first:
+      213: -8914976955630055762
+    second: Progressbar000_12
+  - first:
+      213: -2807016396250883252
+    second: Progressbar000_13
+  - first:
+      213: 999926263325037353
+    second: Progressbar000_14
+  - first:
+      213: 9124194980988727117
+    second: Progressbar000_15
+  - first:
+      213: -4772850524008087589
+    second: Progressbar000_16
+  - first:
+      213: 7487079002082718767
+    second: Progressbar000_17
+  - first:
+      213: -8207750559785987268
+    second: Progressbar000_18
+  - first:
+      213: -2123161802661024593
+    second: Progressbar000_19
+  - first:
+      213: 1766829666711981221
+    second: Progressbar000_20
+  - first:
+      213: -5449430300965411148
+    second: Progressbar000_21
+  - first:
+      213: 2307461542805651905
+    second: Progressbar000_22
+  - first:
+      213: -2240502687043335464
+    second: Progressbar000_23
+  - first:
+      213: 3811757035294162166
+    second: Progressbar000_24
+  - first:
+      213: -7377348400958456966
+    second: Progressbar000_25
+  - first:
+      213: -4813823219563701971
+    second: Progressbar000_26
+  - first:
+      213: 4822772356810386988
+    second: Progressbar000_27
+  - first:
+      213: -18585040235965504
+    second: Progressbar000_28
+  - first:
+      213: -8085756823618361569
+    second: Progressbar000_29
+  - first:
+      213: 6604580310923872610
+    second: Progressbar000_30
+  - first:
+      213: -4947142520959380384
+    second: Progressbar000_31
+  - first:
+      213: -4245320876328386162
+    second: Progressbar000_32
+  - first:
+      213: 1301348894260101171
+    second: Progressbar000_33
+  - first:
+      213: 828890640776128215
+    second: Progressbar000_34
+  - first:
+      213: 495059656483204923
+    second: Progressbar000_35
+  - first:
+      213: 8176517430799028879
+    second: Progressbar000_36
+  - first:
+      213: -9120333960307774020
+    second: Progressbar000_37
+  - first:
+      213: 131972974737694191
+    second: Progressbar000_38
+  - first:
+      213: -2604055812150454229
+    second: Progressbar000_39
+  - first:
+      213: -4113408917187246177
+    second: Progressbar000_40
+  - first:
+      213: 1713801524326230770
+    second: Progressbar000_41
+  - first:
+      213: -1484458611465970679
+    second: Progressbar000_42
+  - first:
+      213: 936787943506743521
+    second: Progressbar000_43
+  - first:
+      213: -6334628881626522503
+    second: Progressbar000_44
+  - first:
+      213: -6903928397741297772
+    second: Progressbar000_45
+  - first:
+      213: 8894646731486571117
+    second: Progressbar000_46
+  - first:
+      213: -9101848050561622377
+    second: Progressbar000_47
+  - first:
+      213: -5384121543225487362
+    second: Progressbar000_48
+  - first:
+      213: -5065556004935514502
+    second: Progressbar000_49
+  - first:
+      213: 3596527661668274502
+    second: Progressbar000_50
+  - first:
+      213: -3613702465107527777
+    second: Progressbar000_51
+  - first:
+      213: 874559450572411834
+    second: Progressbar000_52
+  - first:
+      213: -4458037089776767376
+    second: Progressbar000_53
+  - first:
+      213: -6245972744044903583
+    second: Progressbar000_54
+  - first:
+      213: -3579946675040150549
+    second: Progressbar000_55
+  - first:
+      213: 8221442321167482370
+    second: Progressbar000_56
+  - first:
+      213: 7206761984426532508
+    second: Progressbar000_57
+  - first:
+      213: 4009421833355104103
+    second: Progressbar000_58
+  - first:
+      213: -2988545752718587957
+    second: Progressbar000_59
+  - first:
+      213: 7226241383807605298
+    second: Progressbar000_60
+  - first:
+      213: -4882830377845850739
+    second: Progressbar000_61
+  - first:
+      213: -3585229654008092561
+    second: Progressbar000_62
+  - first:
+      213: 2068826466865067631
+    second: Progressbar000_63
+  - first:
+      213: 2376643315779633199
+    second: Progressbar000_64
+  - first:
+      213: 5870665301959271748
+    second: Progressbar000_65
+  - first:
+      213: -3169111622460305050
+    second: Progressbar000_66
+  - first:
+      213: 4443044132431733505
+    second: Progressbar000_67
+  - first:
+      213: 1294292646232784253
+    second: Progressbar000_68
+  - first:
+      213: 6732608422117214424
+    second: Progressbar000_69
+  - first:
+      213: -2020396901868386163
+    second: Progressbar000_70
+  - first:
+      213: 7439170466041875035
+    second: Progressbar000_71
+  - first:
+      213: 6501279105259253769
+    second: Progressbar000_72
+  - first:
+      213: 628389770317751589
+    second: Progressbar000_73
+  - first:
+      213: 1627790976905792632
+    second: Progressbar000_74
+  - first:
+      213: 7071599728333644999
+    second: Progressbar000_75
+  - first:
+      213: 1937109711906852262
+    second: Progressbar000_76
+  - first:
+      213: -3754885820957455718
+    second: Progressbar000_77
+  - first:
+      213: 7869372372200897490
+    second: Progressbar000_78
+  - first:
+      213: -1279329480406276568
+    second: Progressbar000_79
+  - first:
+      213: -4451251302050554421
+    second: Progressbar000_80
+  - first:
+      213: -7180845103933120628
+    second: Progressbar000_81
+  - first:
+      213: 7145419728570082115
+    second: Progressbar000_82
+  - first:
+      213: -1316123906122541354
+    second: Progressbar000_83
+  - first:
+      213: -293153084904903767
+    second: Progressbar000_84
+  - first:
+      213: 3904101215376957988
+    second: Progressbar000_85
+  - first:
+      213: -2916187151569003421
+    second: Progressbar000_86
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Progressbar000_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2827
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525819e49b2938000800000000000000
+      internalID: 37034546533860645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2829
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999165308888d680800000000000000
+      internalID: -8730077793424926315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2825
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfbe4e25c9d6540800000000000000
+      internalID: 5002826640920411424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2821
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cd8e51b4d1b0f0800000000000000
+      internalID: -1102866575468412406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_4
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2823
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a90f8e6a4b2d50800000000000000
+      internalID: 6713541508232488236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_5
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2820
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365527760757d7e60800000000000000
+      internalID: 7961648841893238115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2606
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58996abab31983d00800000000000000
+      internalID: 952671006657780101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2611
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9140125ecef8e990800000000000000
+      internalID: -7356349829216190054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2617
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c0344f9d1155d0800000000000000
+      internalID: -3075644500636286299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2589
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7100bb617aba000800000000000000
+      internalID: 48315937085986782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_10
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2592
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339850faf39f463d0800000000000000
+      internalID: -3214170182121060045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2587
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88612319ca68b70800000000000000
+      internalID: 8900991453154937033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2435
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae80e241b3a74480800000000000000
+      internalID: -8914976955630055762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2441
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd4c6b5797b09d0800000000000000
+      internalID: -2807016396250883252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2432
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923921f73a370ed00800000000000000
+      internalID: 999926263325037353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2352
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2c3f3ef6af9e70800000000000000
+      internalID: 9124194980988727117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_16
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2353
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff57e6cbd63cdb0800000000000000
+      internalID: -4772850524008087589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2349
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243d642fa277e760800000000000000
+      internalID: 7487079002082718767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2232
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3351f63a56381e80800000000000000
+      internalID: -8207750559785987268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2239
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac26b7e6930982e0800000000000000
+      internalID: -2123161802661024593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_20
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2235
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4df6883a058810800000000000000
+      internalID: 1766829666711981221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2025
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e4ba730cbf54b0800000000000000
+      internalID: -5449430300965411148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2026
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14ec73c00c50020800000000000000
+      internalID: 2307461542805651905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2028
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da49744da228e0e0800000000000000
+      internalID: -2240502687043335464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2109
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcfdcaf3d416e430800000000000000
+      internalID: 3811757035294162166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_25
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2111
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b339857b46e9990800000000000000
+      internalID: -7377348400958456966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2107
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29d06a594dd13db0800000000000000
+      internalID: -4813823219563701971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1838
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea14808edede240800000000000000
+      internalID: 4822772356810386988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1840
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3599e1109fdbff0800000000000000
+      internalID: -18585040235965504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_29
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1842
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176904520f99cf80800000000000000
+      internalID: -8085756823618361569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1866
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269082bdcce28ab50800000000000000
+      internalID: 6604580310923872610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_31
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1868
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645cf89618385bb0800000000000000
+      internalID: -4947142520959380384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_32
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1865
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8185e8d7279515c0800000000000000
+      internalID: -4245320876328386162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1625
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330883bace15f0210800000000000000
+      internalID: 1301348894260101171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1628
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66b1965afc08b00800000000000000
+      internalID: 828890640776128215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1629
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fee47722eced600800000000000000
+      internalID: 495059656483204923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_36
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1615
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d0924843d87170800000000000000
+      internalID: 8176517430799028879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_37
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1617
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6ceea5901e6180800000000000000
+      internalID: -9120333960307774020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_38
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1613
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1137a8bcd4d100800000000000000
+      internalID: 131972974737694191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1421
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b281b7529098cdbd0800000000000000
+      internalID: -2604055812150454229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1422
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974123326c3ae6c0800000000000000
+      internalID: -4113408917187246177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_41
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1424
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faecf00865a8c710800000000000000
+      internalID: 1713801524326230770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_42
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1403
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1dc302c4266be0800000000000000
+      internalID: -1484458611465970679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_43
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1404
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0969adba3200d00800000000000000
+      internalID: 936787943506743521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_44
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1400
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c98be2890e618a0800000000000000
+      internalID: -6334628881626522503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe5e963b15030a0800000000000000
+      internalID: -6903928397741297772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_46
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa8d09312207b70800000000000000
+      internalID: 8894646731486571117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_47
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e51b2fb6dbfa180800000000000000
+      internalID: -9101848050561622377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_48
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff44849bf1c745b0800000000000000
+      internalID: -5384121543225487362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_49
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c8f7e6a783b9b0800000000000000
+      internalID: -5065556004935514502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_50
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419a926ade69e130800000000000000
+      internalID: 3596527661668274502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_51
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ff4311cc89ddc0800000000000000
+      internalID: -3613702465107527777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_52
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1083
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3545acf2f032c00800000000000000
+      internalID: 874559450572411834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_53
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1083
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee654f2eed122c0800000000000000
+      internalID: -4458037089776767376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1638e62c1e8d159a0800000000000000
+      internalID: -6245972744044903583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb14676779715ec0800000000000000
+      internalID: -3579946675040150549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_56
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20efc866b3e681270800000000000000
+      internalID: 8221442321167482370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e588e77df830460800000000000000
+      internalID: 7206761984426532508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f83d32ae354a730800000000000000
+      internalID: 4009421833355104103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_59
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c43ec87d8686d0800000000000000
+      internalID: -2988545752718587957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_60
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a54179044c84460800000000000000
+      internalID: 7226241383807605298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_61
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 871
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df20644a3bc3cb0800000000000000
+      internalID: -4882830377845850739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_62
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 871
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a6a200a4be3ec0800000000000000
+      internalID: -3585229654008092561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 685
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663b63e5b2f5bc10800000000000000
+      internalID: 2068826466865067631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 685
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200ad2f0888bf020800000000000000
+      internalID: 2376643315779633199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 685
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456e7eecfac87150800000000000000
+      internalID: 5870665301959271748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66111b125cd0504d0800000000000000
+      internalID: -3169111622460305050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_67
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032af2291dd8ad30800000000000000
+      internalID: 4443044132431733505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_68
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dfa16ed4046f110800000000000000
+      internalID: 1294292646232784253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_69
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8891460b70f6d50800000000000000
+      internalID: 6732608422117214424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_70
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c5d6e8bb16f3e0800000000000000
+      internalID: -2020396901868386163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_71
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 685
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac00cdf1e3d3760800000000000000
+      internalID: 7439170466041875035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 482
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b5a6a6ee293a50800000000000000
+      internalID: 6501279105259253769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5256740ba2d78b800800000000000000
+      internalID: 628389770317751589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 482
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4e03e443179610800000000000000
+      internalID: 1627790976905792632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_75
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c463196c7e532260800000000000000
+      internalID: 7071599728333644999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_76
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adca2d050ff1ea10800000000000000
+      internalID: 1937109711906852262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_77
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a0ea57d37f3ebc0800000000000000
+      internalID: -3754885820957455718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbbe429a70a53d60800000000000000
+      internalID: 7869372372200897490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_79
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e2b1ad98ee3ee0800000000000000
+      internalID: -1279329480406276568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_80
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 482
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1847468af932c0800000000000000
+      internalID: -4451251302050554421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 290
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f96f87c63885c90800000000000000
+      internalID: -7180845103933120628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_82
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 290
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ec749261a92360800000000000000
+      internalID: 7145419728570082115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_83
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 290
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d69a2fc7403cbde0800000000000000
+      internalID: -1316123906122541354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_84
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 290
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abee6d82d28eebf0800000000000000
+      internalID: -293153084904903767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_85
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 290
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e6bdde572e2630800000000000000
+      internalID: 3904101215376957988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progressbar000_86
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 331
+        width: 304
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cdb2c7c3f9787d0800000000000000
+      internalID: -2916187151569003421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Progressbar000_55: -3579946675040150549
+      Progressbar000_47: -9101848050561622377
+      Progressbar000_70: -2020396901868386163
+      Progressbar000_62: -3585229654008092561
+      Progressbar000_36: 8176517430799028879
+      Progressbar000_72: 6501279105259253769
+      Progressbar000_54: -6245972744044903583
+      Progressbar000_9: 48315937085986782
+      Progressbar000_85: 3904101215376957988
+      Progressbar000_69: 6732608422117214424
+      Progressbar000_40: -4113408917187246177
+      Progressbar000_19: -2123161802661024593
+      Progressbar000_17: 7487079002082718767
+      Progressbar000_24: 3811757035294162166
+      Progressbar000_50: 3596527661668274502
+      Progressbar000_60: 7226241383807605298
+      Progressbar000_77: -3754885820957455718
+      Progressbar000_23: -2240502687043335464
+      Progressbar000_57: 7206761984426532508
+      Progressbar000_30: 6604580310923872610
+      Progressbar000_63: 2068826466865067631
+      Progressbar000_73: 628389770317751589
+      Progressbar000_8: -3075644500636286299
+      Progressbar000_10: -3214170182121060045
+      Progressbar000_26: -4813823219563701971
+      Progressbar000_16: -4772850524008087589
+      Progressbar000_13: -2807016396250883252
+      Progressbar000_56: 8221442321167482370
+      Progressbar000_45: -6903928397741297772
+      Progressbar000_78: 7869372372200897490
+      Progressbar000_1: -8730077793424926315
+      Progressbar000_22: 2307461542805651905
+      Progressbar000_80: -4451251302050554421
+      Progressbar000_86: -2916187151569003421
+      Progressbar000_14: 999926263325037353
+      Progressbar000_41: 1713801524326230770
+      Progressbar000_37: -9120333960307774020
+      Progressbar000_0: 37034546533860645
+      Progressbar000_6: 952671006657780101
+      Progressbar000_28: -18585040235965504
+      Progressbar000_42: -1484458611465970679
+      Progressbar000_75: 7071599728333644999
+      Progressbar000_48: -5384121543225487362
+      Progressbar000_71: 7439170466041875035
+      Progressbar000_31: -4947142520959380384
+      Progressbar000_15: 9124194980988727117
+      Progressbar000_33: 1301348894260101171
+      Progressbar000_59: -2988545752718587957
+      Progressbar000_43: 936787943506743521
+      Progressbar000_5: 7961648841893238115
+      Progressbar000_18: -8207750559785987268
+      Progressbar000_51: -3613702465107527777
+      Progressbar000_39: -2604055812150454229
+      Progressbar000_7: -7356349829216190054
+      Progressbar000_83: -1316123906122541354
+      Progressbar000_79: -1279329480406276568
+      Progressbar000_38: 131972974737694191
+      Progressbar000_46: 8894646731486571117
+      Progressbar000_25: -7377348400958456966
+      Progressbar000_4: 6713541508232488236
+      Progressbar000_34: 828890640776128215
+      Progressbar000_20: 1766829666711981221
+      Progressbar000_67: 4443044132431733505
+      Progressbar000_49: -5065556004935514502
+      Progressbar000_3: -1102866575468412406
+      Progressbar000_12: -8914976955630055762
+      Progressbar000_76: 1937109711906852262
+      Progressbar000_82: 7145419728570082115
+      Progressbar000_35: 495059656483204923
+      Progressbar000_74: 1627790976905792632
+      Progressbar000_27: 4822772356810386988
+      Progressbar000_61: -4882830377845850739
+      Progressbar000_66: -3169111622460305050
+      Progressbar000_29: -8085756823618361569
+      Progressbar000_21: -5449430300965411148
+      Progressbar000_52: 874559450572411834
+      Progressbar000_11: 8900991453154937033
+      Progressbar000_32: -4245320876328386162
+      Progressbar000_68: 1294292646232784253
+      Progressbar000_84: -293153084904903767
+      Progressbar000_81: -7180845103933120628
+      Progressbar000_58: 4009421833355104103
+      Progressbar000_2: 5002826640920411424
+      Progressbar000_44: -6334628881626522503
+      Progressbar000_65: 5870665301959271748
+      Progressbar000_53: -4458037089776767376
+      Progressbar000_64: 2376643315779633199
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: 1a0c41ee7a29fc1459210129b27a538c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5305077814585895075
+    second: BS200_0
+  - first:
+      213: -4118602003438792198
+    second: BS200_1
+  - first:
+      213: -149041576623530284
+    second: BS200_2
+  - first:
+      213: -5291291307480266358
+    second: BS200_3
+  - first:
+      213: -6760943856243991818
+    second: BS200_4
+  - first:
+      213: 7611184406469148486
+    second: BS200_5
+  - first:
+      213: 7049468152849431172
+    second: BS200_6
+  - first:
+      213: 4412564663096699715
+    second: BS200_7
+  - first:
+      213: -870833212316291936
+    second: BS200_8
+  - first:
+      213: -3350583510941370599
+    second: BS200_9
+  - first:
+      213: 269925754403662565
+    second: BS200_10
+  - first:
+      213: -8036418154376586611
+    second: BS200_11
+  - first:
+      213: 6410921326295622365
+    second: BS200_12
+  - first:
+      213: 8740557035590141866
+    second: BS200_13
+  - first:
+      213: 2856050012332407921
+    second: BS200_14
+  - first:
+      213: 7834086803654510557
+    second: BS200_15
+  - first:
+      213: 8702721813357157721
+    second: BS200_16
+  - first:
+      213: -5634280749046869340
+    second: BS200_17
+  - first:
+      213: -958464422075293038
+    second: BS200_18
+  - first:
+      213: 5261911094885675747
+    second: BS200_19
+  - first:
+      213: -1171399963800889066
+    second: BS200_20
+  - first:
+      213: 4773908011043663231
+    second: BS200_21
+  - first:
+      213: -5524998844367228391
+    second: BS200_22
+  - first:
+      213: -3258230689374747376
+    second: BS200_23
+  - first:
+      213: -4648771994727408637
+    second: BS200_24
+  - first:
+      213: 7310529503394968722
+    second: BS200_25
+  - first:
+      213: -185485460482679682
+    second: BS200_26
+  - first:
+      213: 2792331545747578674
+    second: BS200_27
+  - first:
+      213: -6890750435738004485
+    second: BS200_28
+  - first:
+      213: -2791030201219408343
+    second: BS200_29
+  - first:
+      213: 898946727637599272
+    second: Button200_0
+  - first:
+      213: 5861989057484937835
+    second: Button200_1
+  - first:
+      213: -5201574244167498825
+    second: Button200_2
+  - first:
+      213: -2827625552095445255
+    second: Button200_3
+  - first:
+      213: -2648359118350984825
+    second: Button200_4
+  - first:
+      213: 3005285182348478751
+    second: Button200_5
+  - first:
+      213: 4408727792022781594
+    second: Button200_6
+  - first:
+      213: 4815519728630484259
+    second: Button200_7
+  - first:
+      213: 4989936076493838299
+    second: Button200_8
+  - first:
+      213: 2402988320452147400
+    second: Button200_9
+  - first:
+      213: 3520188519502055814
+    second: Button200_10
+  - first:
+      213: 6640462448482027358
+    second: Button200_11
+  - first:
+      213: -8035139225678074503
+    second: Button200_12
+  - first:
+      213: -1573271042089816392
+    second: Button200_13
+  - first:
+      213: 1387970333153714101
+    second: Button200_14
+  - first:
+      213: 1138915883118533867
+    second: Button200_15
+  - first:
+      213: 1719956120574934930
+    second: Button200_16
+  - first:
+      213: 6534199593199723940
+    second: Button200_17
+  - first:
+      213: -1167188083293273651
+    second: Button200_18
+  - first:
+      213: 2615922648613887113
+    second: Button200_19
+  - first:
+      213: 6417844074419114046
+    second: Button200_20
+  - first:
+      213: -8349918413317541092
+    second: Button200_21
+  - first:
+      213: 7566390883347322398
+    second: Button200_22
+  - first:
+      213: 4113495893231663155
+    second: Button200_23
+  - first:
+      213: 5653333089630512505
+    second: Button200_24
+  - first:
+      213: 8103885523906157709
+    second: Button200_25
+  - first:
+      213: 7876220154035516619
+    second: Button200_26
+  - first:
+      213: 8584765791673233992
+    second: Button200_27
+  - first:
+      213: -853774763082791168
+    second: Button200_28
+  - first:
+      213: 2848923336390626695
+    second: Button200_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button200_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2252
+        width: 303
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c6d43943b97c00800000000000000
+      internalID: 898946727637599272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2252
+        width: 604
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6add985df7f95150800000000000000
+      internalID: 5861989057484937835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_2
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2252
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34397b8cb40d7b0800000000000000
+      internalID: -5201574244167498825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2043
+        width: 303
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe7881ba8142c8d0800000000000000
+      internalID: -2827625552095445255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2043
+        width: 604
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d509d9632f3bd0800000000000000
+      internalID: -2648359118350984825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2043
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1940ae53fae4b920800000000000000
+      internalID: 3005285182348478751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1811
+        width: 303
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef8e28192fe2d30800000000000000
+      internalID: 4408727792022781594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1811
+        width: 604
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc7e1fda924d240800000000000000
+      internalID: 4815519728630484259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_8
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1811
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7525b7c60df3540800000000000000
+      internalID: 4989936076493838299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1584
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c876f75521295120800000000000000
+      internalID: 2402988320452147400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1584
+        width: 604
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890457cec83ad030800000000000000
+      internalID: 3520188519502055814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_11
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1584
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57871a0a69a72c50800000000000000
+      internalID: 6640462448482027358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1359
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da6ac32737d7090800000000000000
+      internalID: -8035139225678074503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1359
+        width: 603
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee3d0a25e9a2ae0800000000000000
+      internalID: -1573271042089816392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_14
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1359
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf586a0aaf034310800000000000000
+      internalID: 1387970333153714101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1150
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec945226fd3ecf00800000000000000
+      internalID: 1138915883118533867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1150
+        width: 603
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fb02c9af28ed710800000000000000
+      internalID: 1719956120574934930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_17
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1150
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5eb2c09e32eaa50800000000000000
+      internalID: 6534199593199723940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 918
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14c3d4f905dcfe0800000000000000
+      internalID: -1167188083293273651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 918
+        width: 603
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c97860acf9d4420800000000000000
+      internalID: 2615922648613887113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_20
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 918
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d897be23c01950800000000000000
+      internalID: 6417844074419114046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 703
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f6be51712f1c80800000000000000
+      internalID: -8349918413317541092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 703
+        width: 602
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16dba18b68310960800000000000000
+      internalID: 7566390883347322398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_23
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 703
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f91d78b2161930800000000000000
+      internalID: 4113495893231663155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 494
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975636c0e7ca47e40800000000000000
+      internalID: 5653333089630512505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 494
+        width: 602
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5bd0a2f8c67070800000000000000
+      internalID: 8103885523906157709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_26
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 494
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43f060084fd4d60800000000000000
+      internalID: 7876220154035516619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 262
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bb94e007332770800000000000000
+      internalID: 8584765791673233992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 262
+        width: 602
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007c1406068c624f0800000000000000
+      internalID: -853774763082791168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button200_29
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 262
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d42e12ea8698720800000000000000
+      internalID: 2848923336390626695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Button200_21: -8349918413317541092
+      Button200_17: 6534199593199723940
+      Button200_11: 6640462448482027358
+      Button200_15: 1138915883118533867
+      Button200_12: -8035139225678074503
+      Button200_25: 8103885523906157709
+      Button200_1: 5861989057484937835
+      Button200_6: 4408727792022781594
+      Button200_24: 5653333089630512505
+      Button200_0: 898946727637599272
+      Button200_16: 1719956120574934930
+      Button200_29: 2848923336390626695
+      Button200_20: 6417844074419114046
+      Button200_4: -2648359118350984825
+      Button200_13: -1573271042089816392
+      Button200_18: -1167188083293273651
+      Button200_27: 8584765791673233992
+      Button200_5: 3005285182348478751
+      Button200_19: 2615922648613887113
+      Button200_23: 4113495893231663155
+      Button200_10: 3520188519502055814
+      Button200_2: -5201574244167498825
+      Button200_7: 4815519728630484259
+      Button200_8: 4989936076493838299
+      Button200_3: -2827625552095445255
+      Button200_9: 2402988320452147400
+      Button200_14: 1387970333153714101
+      Button200_26: 7876220154035516619
+      Button200_22: 7566390883347322398
+      Button200_28: -853774763082791168
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
