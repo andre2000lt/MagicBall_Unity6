@@ -14,13 +14,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Game/___Scenes/Ball.unity
     guid: 67ac6aa535d0cef47bf71a019b5ade73
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Game/___Scenes/Settings.unity
     guid: 65b01e5c9cf03724f9be48217fb5f572
   - enabled: 1
     path: Assets/_Game/___Scenes/CreateBall.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b242e6e735a5b4b44adc0243c191e97c, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.localization.settings: {fileID: 11400000, guid: b41b3d1d35aa0034cac5c200f1be3f15, type: 2}
   m_UseUCBPForAssetBundles: 0
