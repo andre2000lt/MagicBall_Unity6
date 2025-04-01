@@ -1,8 +1,5 @@
-using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Localization.Settings;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
@@ -20,7 +17,6 @@ public class MainUI : MonoBehaviour
 
     [Header("Bottom Buttons")]
     [SerializeField] private Button _shakeButton;
-    [SerializeField] private Button _settingsButton;
     [SerializeField] private Button _quitButton;
     [SerializeField] private Button _noAdsButton;
 
@@ -45,13 +41,11 @@ public class MainUI : MonoBehaviour
         
         _errorText.text = "2";
         
-        _settingsButton.interactable = true;
 
         _addBallButton.onClick.AddListener(AddBallButtonOnClick);
         _editBallButton.onClick.AddListener(EditBallButtonOnClick);
         _removeBallButton.onClick.AddListener(RemoveBallButtonOnClick);
         _shakeButton.onClick.AddListener(() => { StartCoroutine(ShakeBallButtonOnClick()); });
-        _settingsButton.onClick.AddListener(SettingsButtonOnClick);
         _quitButton.onClick.AddListener(QuitButtonOnClick);
 
         if(PlayerPrefs.GetInt("noAds") == 1)
@@ -148,12 +142,6 @@ public class MainUI : MonoBehaviour
     }
     
     
-    private void SettingsButtonOnClick()
-    {
-        GameScenesController.LoadSceneAsync(GameScene.Settings);
-    } 
-    
-    
     private void QuitButtonOnClick()
     {
         Application.Quit();
@@ -168,7 +156,4 @@ public class MainUI : MonoBehaviour
         BallBody.RenderBall();
         BallBody.ShowText(true);
     }
-
-
-
 }
